@@ -3,7 +3,7 @@
 
 A simple command-line quiz game where players answer questions to win points.
 
-## Intallation
+## Installation
 
 1. Clone this repository
 2. Run `pip install -e .` in the project root directory
