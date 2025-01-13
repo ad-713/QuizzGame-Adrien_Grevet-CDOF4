@@ -6,7 +6,7 @@ init(autoreset=True)
 
 class QuizGame:
     def __init__(self):
-        self.score  0
+        self.score = 0
         self.questions = QUESTIONS.copy()
         random.shuffle(self.questions)
     
