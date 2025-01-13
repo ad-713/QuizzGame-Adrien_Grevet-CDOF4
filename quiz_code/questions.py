@@ -23,10 +23,5 @@ QUESTIONS = [
         'question': 'What is the largest ocean on Earth?',
         'options': ['Atlantic', 'Indian', 'Arctic', 'Pacific'],
         'correct': 3  # Pacific
-    },
-    {
-        'question': 'What is the powerhouse of the cell?',
-        'options': ['Nucleus', 'Mitochondria', 'Ribosome', 'Chloroplast'],
-        'correct': 1  # Mitochondria
     }
 ]
