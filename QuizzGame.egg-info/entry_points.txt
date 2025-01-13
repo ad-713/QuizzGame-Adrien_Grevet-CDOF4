@@ -1,0 +1,2 @@
+[console_scripts]
+quiz-game = quiz_code.main:main

@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: QuizzGame
+Version: 1.0
+Author: ad-713
+License: MIT
+License-File: LICENSE
+Requires-Dist: colorama>=0.4.4
+Dynamic: author
+Dynamic: description
+Dynamic: license
+Dynamic: requires-dist
+
+# QuizzGame-Adrien_Grevet-CDOF4
+A fun and interactive quiz game written in Python! Test your knowledge with customizable questions and challenge your friends.
